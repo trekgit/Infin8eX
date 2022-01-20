@@ -315,10 +315,10 @@ p {
 .form-control{
 	border-radius: 0px;
 }
-.sectionss{
+.sections{
 	padding: 50px 0;
 }
-.sectionss:after{
+.sections:after{
 	content: '';
 	width: 100%;
 	display: block;
@@ -500,7 +500,7 @@ p {
 .banner{
 	position: relative;
 }
-.sectionss.banner{
+.sections.banner{
 	padding: 0;
 	width: 100%;
 	height: 100%;
