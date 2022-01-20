@@ -343,7 +343,7 @@ p {
 2. Navbar
 ============================= */
 .topbar{
-	background-color: #553216;
+	background-color: #ff0909;
 	color: #fff;
 	height: 40px;
 	font-family: 'Montserrat', sans-serif;
@@ -461,7 +461,7 @@ p {
 	min-width: 220px;
 }
 .dropdown-menu{
-	background-color: #553216;
+	background-color: #ff0909;
 	padding: 0;
 }
 .dropdown-menu > li > a {
@@ -737,7 +737,7 @@ p {
 	margin-top: 0px;
 }
 .quotes{
-	background: #553216;
+	background: #ff0909;
 	color: #fff;
 	padding: 40px 30px 20px 30px;
 	position: relative;
@@ -828,7 +828,7 @@ p {
 	padding: 12px;
 }
 .table-pestco > thead > tr > th{
-	background-color: #553216;
+	background-color: #ff0909;
 	color: #fff;
 	font-weight: 700;
 	font-family: 'Montserrat', sans-serif;
@@ -1078,7 +1078,7 @@ p {
 	margin: 15px 0;
 }
 .btn-brochure{
-	background-color: #553216;
+	background-color: #ff0909;
 	color: #fff;
 	border-radius: 0px;
 	-moz-border-radius: 0px;
@@ -1220,13 +1220,13 @@ p {
 }
 .nav-tabs  > li > a:hover, 
 .nav-tabs  > li > a:focus {
-	color: #553216;
+	color: #ff0909;
     background-color: transparent;
 }
 .nav-tabs > li.active > a, 
 .nav-tabs > li.active > a:hover, 
 .nav-tabs > li.active > a:focus {
-    color: #553216;
+    color: #ff0909;
     cursor: default;
     background-color: transparent;
     border: 0;
@@ -1235,7 +1235,7 @@ p {
 .nav-tabs > li.active > a .fa, 
 .nav-tabs > li.active > a:hover  .fa, 
 .nav-tabs > li.active > a:focus  .fa{
-    color: #553216;
+    color: #ff0909;
 }
 .tab-content{
 	
@@ -1245,7 +1245,7 @@ p {
 }
 .body-tab h3,
 .body-tab h4{
-	color: #553216;
+	color: #ff0909;
 }
 /* team */
 .box-team{
@@ -1301,7 +1301,7 @@ p {
 	display: none;
 }
 .box-team:hover .description{
-    border-bottom: 2px solid #553216;
+    border-bottom: 2px solid #ff0909;
 }
 .box-team:hover .blok-title{
     color: #F7941D;
@@ -1315,7 +1315,7 @@ p {
 	padding: 5px 10px;
 }
 .box-team .social-team a:hover .fa{
-    color: #553216;
+    color: #ff0909;
 }
 
 .title-page{
@@ -1755,7 +1755,7 @@ ul.list-inline.bullet-lists li {
     margin-right: 2px;
 }
 ul.list-inline.bullet-lists li:hover { 
-	background: #553216;
+	background: #ff0909;
 	color: #fff;
 }
 .widget .shop-item{
@@ -2051,7 +2051,7 @@ ul.list-inline.bullet-lists li:hover {
 	font-weight: 400;
 }
 .testimony .item-testimony  .people .title {
-	color: #553216;
+	color: #ff0909;
 	margin: 30px 0 40px 0;
 	font-size: 14px;
 }
@@ -2195,10 +2195,10 @@ ul.list-inline.bullet-lists li:hover {
     border-bottom: 3px solid #fff;
 }
 .btn-contact:hover{
-	background-color: #553216;
+	background-color: #ff0909;
     color: #fff;
-    border: 1px solid #553216;
-    border-bottom: 3px solid #553216;
+    border: 1px solid #ff0909;
+    border-bottom: 3px solid #ff0909;
 }
 
 /* ==========================
@@ -2569,7 +2569,7 @@ p.help-block.text-danger li {
 }
 .no-touch #cd-zoom-in:hover,
 .no-touch #cd-zoom-out:hover {
-	background-color: #553216;
+	background-color: #ff0909;
 }
 #cd-zoom-in {
 	background-position: 50% 0;
@@ -3035,7 +3035,7 @@ p.help-block.text-danger li {
 }
 @media (max-width: 767px) {
 	.navbar-nav .open .dropdown-menu{
-		background-color: #553216;
+		background-color: #ff0909;
 	}
 	.services-item-image img{
 		position:static;
