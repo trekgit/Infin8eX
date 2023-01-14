@@ -366,6 +366,7 @@ p {
 	margin-right: 30px;
 	font-size: 13px;
 	font-family: 'Montserrat', sans-serif;
+	line-height: 1.3;
 }
 .info .info-item:last-child{
 	margin-right:0;
