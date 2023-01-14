@@ -355,6 +355,7 @@ p {
 }
 .info a{
 	color:#fff;
+	text-decoration:none;
 }
 .info a:hover{
 	color:#FBA301;
